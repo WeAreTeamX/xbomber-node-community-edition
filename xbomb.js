@@ -66,6 +66,9 @@ let main = async () => {
          bombinnots=bombinnots+1
          console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
        }
+     }).catch( err =>{
+       bombinnots=bombinnots+1
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
      });
      
        
@@ -89,6 +92,9 @@ let main = async () => {
          console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
        }
 
+     }).catch( err =>{
+       bombinnots=bombinnots+1
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
      });
        
        //
