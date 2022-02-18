@@ -6,6 +6,5 @@
 * `apt install nodejs git -y `
 * `git clone https://github.com/WeAreTeamX/xbomber-node-community-edition`
 * `cd xbomber-node-community-edition`
-* `npm install figlet`
-* `npm install axios`
+* `npm i`
 * `node xbomb.js`
