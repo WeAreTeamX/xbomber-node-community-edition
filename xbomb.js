@@ -11,7 +11,7 @@ const readline = require('readline').createInterface({
 
 let main = async () => {
   figlet.text('XBOMB', {
-    font: 'slant',
+    font: 'Slant',
     horizontalLayout: 'default',
     verticalLayout: 'default',
     width: 80,
