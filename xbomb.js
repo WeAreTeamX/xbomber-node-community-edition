@@ -64,11 +64,11 @@ let main = async () => {
          console.log(`\x1b[1;30m[ \x1b[1;34m${bombcnt}\x1b[1;30m ]\x1b[1;32m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
        }else{
          bombinnots=bombinnots+1
-         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SUCCESSFULLY \x1b[1;30m!`)
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SENT SUCCESSFULLY \x1b[1;30m!`)
        }
      }).catch( err =>{
        bombinnots=bombinnots+1
-         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SUCCESSFULLY \x1b[1;30m!`)
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SENT SUCCESSFULLY \x1b[1;30m!`)
      });
      
        
@@ -89,12 +89,12 @@ let main = async () => {
          console.log(`\x1b[1;30m[ \x1b[1;34m${bombcnt}\x1b[1;30m ]\x1b[1;32m MESSAGE SENT SUCCESSFULLY \x1b[1;30m!`)
        }else{
          bombinnots=bombinnots+1
-         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SUCCESSFULLY \x1b[1;30m!`)
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SENT SUCCESSFULLY \x1b[1;30m!`)
        }
 
      }).catch( err =>{
        bombinnots=bombinnots+1
-         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SUCCESSFULLY \x1b[1;30m!`)
+         console.log(`\x1b[1;30m[ \x1b[1;34m${bombinnots}\x1b[1;30m ]\x1b[1;31m MESSAGE NOT SENT SUCCESSFULLY \x1b[1;30m!`)
      });
        
        //
