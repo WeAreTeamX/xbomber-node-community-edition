@@ -33,7 +33,14 @@ let main = async () => {
       //
       exec("xdg-open https://github.com/WeAreTeamX");
       process.exit(1);
-    }
+    }else{
+	if(number.length == 11){
+			//pass
+		}else{
+			console.log("NUMBER MUST BE 11 DIGIT")
+			process.exit(1);
+			}
+	}
     readline.question("\x1b[1;32mENTER AMOUNT \x1b[1;30m:\x1b[1;33m ", amunt=>{
      fs.readFile("api.json","utf8",(err,data)=>{
     data=JSON.parse(data);
