@@ -1,13 +1,6 @@
 <div id="top"></div>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GNU GENERAL PUBLIC LICENSE][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -24,12 +17,7 @@
     <a href="https://github.com/WeAreTeamX/xbomber-node-community-edition/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://weareteamx.github.io/xbomber-node-community-edition/">View Demo</a>
-    ·
-    <a href="https://weareteamx.github.io/xbomber-node-community-edition/issues">Report Bug</a>
-    ·
-    <a href="https://weareteamx.github.io/xbomber-node-community-edition/issues">Request Feature</a>
-  </p>
+    </p>
 </div>
 
 
@@ -79,23 +67,27 @@ Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, t
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The community edition of Xbomber is not a dynamic website. It means, you can use this website files directly in any of the ***static website*** hosting services (Ex. Github Pages).
-
-### Using Github Pages
-
-To host your bomber directly into Github Pages 
-- Click on `Use this template` on the top corner of this repository.
-- Select your desired repository name.
-- Go to the `Pages` section of your repository from settings.
-- Select branch `main` and choose a theme to publish your website.
+The community edition of Xbomber is not a dynamic tool. It means, you can use this tool files directly in any of the ***static terminal***.
 
 ### Local development
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/WeAreTeamX/xbomber-web-community-edition.git
+1. Setup Your Enviroment
+```
+   apt update
+   apt install nodejs
+```
+2. Clone the repository
    ```
-
+   git clone https://github.com/WeAreTeamX/xbomber-node-community-edition.git
+   ```
+3. Change directory 
+```
+   cd xbomber-node-community-edition
+```
+4. Install node module 
+```
+   npm init
+   npm i
+```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
