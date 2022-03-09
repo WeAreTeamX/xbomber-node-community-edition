@@ -95,7 +95,7 @@ The community edition of Xbomber is not a dynamic tool. It means, you can use th
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Edit APIs in the `script.js` to make the bomber work.
+1. Edit APIs in the `api.json` to make the bomber work.
    ```js
    const APIS = [
         {
