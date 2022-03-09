@@ -119,7 +119,7 @@ The community edition of Xbomber is not a dynamic tool. It means, you can use th
     ]
    ```
 
-_For more examples, please refer to the [api.json Example](https://github.com/WeAreTeamX/xbomber-node-community-edition/blob/main/assets/api.json)_
+_For more examples, please refer to the [api.json Example](https://raw.githubusercontent.com/WeAreTeamX/xbomber-node-community-edition/main/api.json)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
