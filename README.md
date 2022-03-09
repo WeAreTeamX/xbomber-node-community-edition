@@ -88,6 +88,10 @@ The community edition of Xbomber is not a dynamic tool. It means, you can use th
    npm init
    npm i
 ```
+5. To run this tool
+```
+   node xbomb.js
+```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -96,14 +100,23 @@ The community edition of Xbomber is not a dynamic tool. It means, you can use th
 ## Usage
 
 1. Edit APIs in the `api.json` to make the bomber work.
-   ```js
-   const APIS = [
-        {
-            method: "POST",
-            url: `https://your-api-endpoint/?phone=+88${mobile}`,
-            body: `type=register&phone=${mobile}`
-        }
-   ]
+   ```json
+   [
+    {
+      "method":"GET",
+      "url": "https://your-api-endpoint/?phone=+88{maonumber}",
+      "headers":{
+        "User-Agents":"Mozilla/5.0 (Linux; Android 8.1.0; CPH1909) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36"
+      }
+    },
+    {
+      "method":"POST",
+      "url":"https://your-api-endpoint/",
+      "headers":{"Content-Type" : "application/x-www-form-urlencoded"},
+      "data":"phone={maonumber}"
+    }    
+    
+    ]
    ```
 
 _For more examples, please refer to the [Script.js Example](https://github.com/WeAreTeamX/xbomber-web-community-edition/blob/main/assets/script.js)_
@@ -133,7 +146,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more information.
+Distributed under the MIT License . See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
