@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/weareteamx/xbomber-web-community-edition">
+  <a href="https://github.com/weareteamx/xbomber-node-community-edition">
     <img src="https://i.ibb.co/Kxfn3pJ/XBOMBER-Round.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     Open source community edition
     <br />
-    <a href="https://github.com/WeAreTeamX/xbomber-web-community-edition/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/WeAreTeamX/xbomber-node-community-edition/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://weareteamx.github.io/xbomber-web-community-edition/">View Demo</a>
+    <a href="https://weareteamx.github.io/xbomber-node-community-edition/">View Demo</a>
     ·
-    <a href="https://weareteamx.github.io/xbomber-web-community-edition/issues">Report Bug</a>
+    <a href="https://weareteamx.github.io/xbomber-node-community-edition/issues">Report Bug</a>
     ·
-    <a href="https://weareteamx.github.io/xbomber-web-community-edition/issues">Request Feature</a>
+    <a href="https://weareteamx.github.io/xbomber-node-community-edition/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,10 +71,7 @@ Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, t
 
 ### Built With
 
-* [Bootstrap](https://getbootstrap.com)
-* [Bootstrap Icons](https://icons.getbootstrap.com)
-* [JQuery](https://jquery.com)
-
+* [NodeJs]()
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -153,10 +150,10 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 <!-- CONTACT -->
 ## Contact
 
-**Ign0r3dH4x0r** ***(Maintainer)***
-- [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
+**MAO2116** ***(Maintainer)***
+- [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mao2116)&nbsp;
 - [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
-- [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
+- [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mao2116)&nbsp;
 
 **Team X 1337**
 - [![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/groups/team.x.official.community)&nbsp;
