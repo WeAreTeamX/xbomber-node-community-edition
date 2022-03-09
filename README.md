@@ -144,7 +144,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 
 **MAO2116** ***(Maintainer)***
 - [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mao2116)&nbsp;
-- [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
+- [![GitHub followers](https://img.shields.io/github/followers/mao2116?style=social)](https://github.com/mao2116)&nbsp;
 - [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mao2116)&nbsp;
 
 **Team X 1337**
